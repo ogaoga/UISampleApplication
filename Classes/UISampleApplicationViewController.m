@@ -27,9 +27,9 @@
  */
 - (IBAction)clearButtonPressed:(UIButton*)sender {
 	// スライダーの値を 0.00 に。
-	slider.value = 0.00;
+	slider.value = 0.000000;
 	// テキストフィールドの文字列を 0.00 に。
-	textField.text = @"0.00";
+	textField.text = @"0.000000";
 }
 
 /**
