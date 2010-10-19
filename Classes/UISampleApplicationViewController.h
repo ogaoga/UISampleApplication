@@ -9,9 +9,7 @@
 #import <UIKit/UIKit.h>
 
 @interface UISampleApplicationViewController : UIViewController {
-	IBOutlet UITextField *textField;
-	IBOutlet UISlider *slider;
-	IBOutlet UIButton *button;
+
 }
 
 @end
