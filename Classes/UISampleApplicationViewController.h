@@ -14,10 +14,5 @@
 	IBOutlet UIButton *button;
 }
 
-- (IBAction)switchValueChanged:(UISwitch*)sender;
-- (IBAction)clearButtonPressed:(UIButton*)sender;
-- (IBAction)sliderValueChanged:(UISlider*)sender;
-- (IBAction)textFieldEditingChanged:(UITextField*)sender;
-
 @end
 
