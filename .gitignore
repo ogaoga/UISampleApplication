@@ -8,4 +8,6 @@ build
 .DS_Store
 
 *.org
+*.old
+
 
